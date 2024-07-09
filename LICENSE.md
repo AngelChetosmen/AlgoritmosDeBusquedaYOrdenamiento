@@ -1,6 +1,6 @@
-* LICENSE *
+# **LICENSE**
 
---Version Español | Spanish--
+## Version Español | Spanish
 
 Derechos Reservados por EUVA B & T © | CEO : AngelChetosmen
 
@@ -19,7 +19,9 @@ Prohibiciones:
 
 Espero que te sirvan como referencia de mi trabajo como de consulta propia, nos vemos pronto :D.
 
---Version Inglés | English--
+---
+
+## Version Inglés | English
 
 All Rights Reserved by EUVA B&T © | CEO : AngelChetosmen
 
